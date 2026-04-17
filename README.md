@@ -1,282 +1,270 @@
 <!-- ============================================================ -->
 <!--  MOHAMED SAHAD M — GITHUB PROFILE README                    -->
-<!--  Theme: DARK HACKER / CYBERPUNK TERMINAL                    -->
+<!--  Theme: Radical Red / Purple / Cyan (bold, modern, animated)-->
 <!-- ============================================================ -->
 
-<!-- ===================== MATRIX RAIN HEADER ===================== -->
+<!-- ===================== ANIMATED WAVE HEADER ===================== -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d87bdcbe-09b9-4dd7-9eaf-c4b826189ba5" width="100%" alt="matrix rain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F43F5E,50:8B5CF6,100:06B6D4&height=240&section=header&text=Mohamed%20Sahad%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Analytics&descAlignY=58&descSize=18&descColor=ffffff" alt="header" />
 </p>
 
-<!-- ===================== GLITCH NAME BANNER ===================== -->
+<!-- ===================== TYPING INTRO (wider canvas, no cutoff) ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=80&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=1000&height=110&lines=MOHAMED+SAHAD+M" alt="name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&height=55&lines=%3E+root%40sahad:~%24+initializing+AI+systems...;%3E+AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst;%3E+Building+production-grade+GenAI+%26+Agentic+AI;%3E+Statistics-grounded.+MLOps-minded.+Impact-driven.;%3E+Turning+messy+data+into+deployed+intelligence." alt="typing" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=F43F5E&center=true&vCenter=true&multiline=false&width=1100&height=60&lines=AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst;Building+Production-Grade+GenAI+%26+Agentic+AI+Systems;Statistics-Grounded+%E2%80%A2+MLOps-Minded+%E2%80%A2+Impact-Driven;Turning+Messy+Data+into+Deployed+Intelligence" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- ===================== STATUS BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%3E_LOCATION-ABU_DHABI,_UAE-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%3E_STATUS-OPEN_TO_ONSITE-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%3E_EDU-MSc_STATISTICS-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%3E_MODE-PRODUCTION_AI-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Abu_Dhabi,_UAE-8B5CF6?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🎯_Open_to-Onsite_UAE_Roles-06B6D4?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🎓_MSc-Statistics-F43F5E?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/💼_Focus-Production_AI-10B981?style=for-the-badge&labelColor=0F172A" />
 </p>
 
 <!-- ===================== LIVE COUNTERS ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedsahadm786&label=VISITORS&color=00FF41&style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/github/followers/mohamedsahadm786?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/mohamedsahadm786?label=STARS&style=for-the-badge&color=00FF41&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedsahadm786&label=Profile%20Views&color=F43F5E&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mohamedsahadm786?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0F172A" />
+  <img src="https://img.shields.io/github/stars/mohamedsahadm786?label=Total%20Stars&style=for-the-badge&color=06B6D4&labelColor=0F172A" />
 </p>
 
-<!-- ===================== DIVIDER (dark) ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== ABOUT SECTION ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=%3E+cat+about_me.md" alt="about header" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp; About Me &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h2>
 
-<p align="center">
-  <img src="https://carbon.now.sh/?bg=rgba%280%2C0%2C0%2C1%29&t=synthwave-84&wt=none&l=application%2Fx-sh&width=680&ds=false&dsyoff=20px&dsblur=68px&wc=false&wa=false&pv=20px&ph=30px&ln=false&fl=1&fm=Fira+Code&fs=14px&lh=152%25&si=false&es=2x&wm=false" alt="loading" />
-</p>
-
-<table align="center" width="100%">
+<table>
 <tr>
 <td width="60%" valign="top">
 
-<!-- Terminal screenshot rendered as image, so light mode can't break it -->
-<img src="https://github-readme-terminal.vercel.app/?lang=bash&cmds=whoami,cat%20profile.json,ls%20~%2Fobsessions%2F,echo%20%24MISSION&theme=matrix" alt="terminal" width="100%" onerror="this.style.display='none'" />
+I'm an **AI/ML Engineer and Data Scientist** with a deep foundation in **statistics** — I don't just train models, I understand the math underneath them.
 
-```bash
-┌─[root@sahad]─[~]
-└──╼ $ whoami
-[+] AI/ML Engineer • Data Scientist • Statistician
+My work lives at the intersection of **cutting-edge GenAI** (LLMs, RAG, agentic systems) and **classical rigor** (statistical modeling, experimental design, feature engineering). I build systems that don't just work in notebooks — they ship, scale, and survive in production.
 
-┌─[root@sahad]─[~]
-└──╼ $ cat profile.json
-{
-  "name"      : "Mohamed Sahad M",
-  "location"  : "Abu Dhabi, UAE",
-  "education" : ["MSc Statistics", "BSc Statistics"],
-  "focus"     : "Production-grade GenAI & Agentic AI",
-  "building"  : "RAG pipelines, LLM fine-tuning, MLOps",
-  "philosophy": "Math-first. Ship-fast. Monitor-forever."
-}
-
-┌─[root@sahad]─[~]
-└──╼ $ ls ~/obsessions/
-> GenAI        > Agentic AI     > Statistics
-> MLOps        > Fine-tuning    > Analytics
-
-┌─[root@sahad]─[~]
-└──╼ $ echo $MISSION
-[!] Turning messy data into deployed intelligence.
-
-┌─[root@sahad]─[~]
-└──╼ $ █
-```
+- 🔭 Currently crafting **production-grade RAG & multi-agent AI systems**
+- 🧠 Exploring **agentic frameworks** — LangGraph, LangChain, CrewAI
+- 🧪 Obsessed with **fine-tuning** — QLoRA, LoRA, PEFT on domain-specific LLMs
+- 📊 **Statistician by training**, engineer by craft
+- 🌍 Based in the **UAE** — open to onsite opportunities
+- 💬 Ask me about **RAG pipelines, agentic AI, MLOps, or statistical modeling**
+- ⚡ Fun fact — I optimize everything, even my coffee-to-code ratio ☕
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="top">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="hacker" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="code" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<!-- ===================== DIVIDER ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== WHAT I DO ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%3E+.%2Fwhat_i_do.sh+--verbose" alt="what i do header" />
+  🚀 &nbsp; What I Do &nbsp; 🚀
 </h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+  <br/><b>🤖 AI Engineering</b>
+  <br/><sub>LLM apps, RAG pipelines,<br/>agentic workflows,<br/>prompt engineering</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/brain.png" width="60"/>
+  <br/><b>⚙️ ML Engineering</b>
+  <br/><sub>Model training,<br/>fine-tuning, deployment,<br/>MLOps & monitoring</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60"/>
+  <br/><b>📊 Data Science</b>
+  <br/><sub>Statistical modeling,<br/>predictive analytics,<br/>A/B testing, inference</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="60"/>
+  <br/><b>📈 Data Analytics</b>
+  <br/><sub>BI dashboards,<br/>SQL, Power BI, Tableau,<br/>storytelling with data</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/%5B%3E%5D_AI_ENGINEER-LLM_apps_%E2%80%A2_RAG_pipelines_%E2%80%A2_agentic_workflows-00FF41?style=for-the-badge&labelColor=000000" /><br/><br/>
-<img src="https://img.shields.io/badge/%5B%3E%5D_ML_ENGINEER-Training_%E2%80%A2_fine--tuning_%E2%80%A2_deployment_%E2%80%A2_MLOps-00FF41?style=for-the-badge&labelColor=000000" /><br/><br/>
-<img src="https://img.shields.io/badge/%5B%3E%5D_DATA_SCIENTIST-Statistical_modeling_%E2%80%A2_A%2FB_testing_%E2%80%A2_inference-00FF41?style=for-the-badge&labelColor=000000" /><br/><br/>
-<img src="https://img.shields.io/badge/%5B%3E%5D_DATA_ANALYST-BI_dashboards_%E2%80%A2_SQL_%E2%80%A2_Power_BI_%E2%80%A2_Tableau-00FF41?style=for-the-badge&labelColor=000000" />
-
-</p>
-
-<!-- ===================== DIVIDER ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=%3E+cat+tech_stack.txt" alt="tech header" />
+  🛠️ &nbsp; Tech Arsenal &nbsp; 🛠️
 </h2>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B01%5D_GENAI_%26_LLM_ECOSYSTEM-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">🧬 GenAI & LLM Ecosystem</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=D97706" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B02%5D_MACHINE_LEARNING_%26_DEEP_LEARNING-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">🧠 Machine Learning & Deep Learning</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/PEFT_%2F_LoRA-000000?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PEFT_%2F_LoRA-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B03%5D_VECTOR_DBs_%26_RETRIEVAL-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">🗃️ Vector DBs & Retrieval</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Weaviate-000000?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00C4B3?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B04%5D_DATA_SCIENCE_%26_STATISTICS-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">📊 Data Science & Statistics</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-3B4CC0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B05%5D_ANALYTICS_%26_VISUALIZATION-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">📈 Analytics & Visualization</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B06%5D_BACKEND_%26_APIs-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">⚡ Backend & APIs</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=amazonrds&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazonrds&logoColor=white" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B07%5D_MLOps_DEVOPS_%26_CLOUD-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">🚢 MLOps, DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=F90" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h4 align="center"><img src="https://img.shields.io/badge/%5B08%5D_DEV_TOOLS-00FF41?style=for-the-badge&labelColor=000000" /></h4>
+<h4 align="center">🧰 Dev Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- ===================== DIVIDER ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== SNAKE GAME ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=%3E+.%2Frender_contribution_snake.sh" alt="snake header" />
+  🐍 &nbsp; Contribution Snake &nbsp; 🐍
 </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedsahadm786/mohamedsahadm786/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-<!-- ===================== DIVIDER ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== QUOTE ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=%3E+fortune+%7C+cowsay" alt="quote header" />
+  💡 &nbsp; Dev Quote of the Day &nbsp; 💡
 </h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 </p>
 
-<!-- ===================== DIVIDER ===================== -->
+<!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
 <!-- ===================== CONNECT ===================== -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%3E+ssh+connect%40sahad.dev" alt="connect header" />
+  🌐 &nbsp; Let's Connect &nbsp; 🌐
 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-sahad-m/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mohamedsahadm786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://d5qb6gsuemmzn.cloudfront.net/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/mohamedsahadm786">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-<!-- ===================== FOOTER MATRIX RAIN ===================== -->
+<!-- ===================== FOOTER WAVE ===================== -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d87bdcbe-09b9-4dd7-9eaf-c4b826189ba5" width="100%" alt="matrix rain footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:F43F5E&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=40&lines=%3E+connection+terminated.+stay+curious.;%3E+From+data+to+decisions+%E2%80%94+one+model+at+a+time." alt="footer typing" />
+  <sub>⭐ <i>From data to decisions — one model at a time.</i> ⭐</sub>
 </p>
